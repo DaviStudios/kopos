@@ -80,7 +80,8 @@ const lang = {
     'dog': 'pejsók',
     'cat': 'kosiska',
     'bear': 'medveť',
-    'eagle': 'orlicja'
+    'eagle': 'orlizja',
+    'principal': 'reditól'
 }
 
 function engkps() {
