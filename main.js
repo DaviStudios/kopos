@@ -92,7 +92,10 @@ const lang = {
     'low': 'málo',
     'high': 'vysoko',
     'short': 'skritovko',
-    'gnome': 'gnum'
+    'gnome': 'gnum',
+    'over': 'o',
+    'rule': 'pravidlo',
+    'rules': 'vládne'
 }
 
 function engkps() {
