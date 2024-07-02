@@ -61,7 +61,7 @@ const lang = {
     'much': 'hódne',
     'alot': 'hódne',
     'boat': 'ludiska',
-    'boats' 'ludisko',
+    'boats': 'ludisko',
     'human': 'zluvízek',
     'being': 'svorení',
     'are': 'su',
