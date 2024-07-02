@@ -74,7 +74,13 @@ const lang = {
     'west': 'zapadnie',
     'east': 'vichodnie',
     'north': 'severie',
-    'south': 'jihonie'
+    'south': 'jihonie',
+    'holy': 'svata',
+    'fox': 'lizka',
+    'dog': 'pejsók',
+    'cat': 'kosiska',
+    'bear': 'medveť',
+    'eagle': 'orlicja'
 }
 
 function engkps() {
