@@ -87,7 +87,7 @@ const lang = {
     'region' 'kraj',
     'location': 'polohia',
     'motosand': 'mótosa',
-    'slovasia': 'slovésia',,
+    'slovasia': 'slovésia',
     'very': '',
     'low': 'málo',
     'high': 'vysoko',
