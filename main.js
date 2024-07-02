@@ -52,7 +52,9 @@ const lang = {
     'working': 'pracjovať',
     'at': 'na',
     'as': 'ako' ,
-    'speak': 'pomluvi'
+    'speak': 'pomluvi',
+    'koposilian': 'Kópos',
+    'Kopos': 'Kóposa'
 }
 
 function engkps() {
