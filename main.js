@@ -54,7 +54,7 @@ const lang = {
     'as': 'ako',
     'speak': 'pomluvi',
     'koposilian': 'Kópos',
-    'Kopos': 'Kóposa',
+    'Koposa': 'Kóposa',
     'language': 'jazjik',
     'tongue': 'jazjik',
     'so': '',
@@ -81,7 +81,18 @@ const lang = {
     'cat': 'kosiska',
     'bear': 'medveť',
     'eagle': 'orlizja',
-    'principal': 'reditól'
+    'principal': 'reditól',
+    'king': 'krájl',
+    'of': '',
+    'region' 'kraj',
+    'location': 'polohia',
+    'motosand': 'mótosa',
+    'slovasia': 'slovésia',,
+    'very': '',
+    'low': 'málo',
+    'high': 'vysoko',
+    'short': 'skritovko',
+    'gnome': 'gnum'
 }
 
 function engkps() {
