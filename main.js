@@ -84,7 +84,7 @@ const lang = {
     'principal': 'reditól',
     'king': 'krájl',
     'of': '',
-    'region' 'kraj',
+    'region': 'kraj',
     'location': 'polohia',
     'motosand': 'mótosa',
     'slovasia': 'slovésia',
